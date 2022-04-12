@@ -1,0 +1,23 @@
+element.style {
+}
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
